@@ -1,7 +1,7 @@
-package com.bootcamp.todo.Service;
+package com.bootcamp.todo.service;
 
-import com.bootcamp.todo.Model.Todo;
-import com.bootcamp.todo.Repository.TodoRepository;
+import com.bootcamp.todo.model.Todo;
+import com.bootcamp.todo.repository.TodoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,7 +1,7 @@
 package com.bootcamp.todo.controller;
 
-import com.bootcamp.todo.Model.Todo;
-import com.bootcamp.todo.Repository.TodoRepository;
+import com.bootcamp.todo.model.Todo;
+import com.bootcamp.todo.repository.TodoRepository;
 import org.assertj.core.api.recursive.comparison.RecursiveComparisonConfiguration;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

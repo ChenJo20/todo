@@ -1,6 +1,6 @@
-package com.bootcamp.todo.Repository;
+package com.bootcamp.todo.repository;
 
-import com.bootcamp.todo.Model.Todo;
+import com.bootcamp.todo.model.Todo;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

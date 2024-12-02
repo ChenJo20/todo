@@ -1,4 +1,4 @@
-package com.bootcamp.todo.Model;
+package com.bootcamp.todo.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

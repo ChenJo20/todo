@@ -1,7 +1,7 @@
-package com.bootcamp.todo.Controller;
+package com.bootcamp.todo.controller;
 
-import com.bootcamp.todo.Model.Todo;
-import com.bootcamp.todo.Service.TodoService;
+import com.bootcamp.todo.model.Todo;
+import com.bootcamp.todo.service.TodoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
