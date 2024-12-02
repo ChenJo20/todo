@@ -39,6 +39,7 @@ public class TodoControllerTest {
         todoRepository.save(new Todo("text2"));
         todoRepository.save(new Todo("text3"));
         todoRepository.save(new Todo("text4"));
+        todoRepository.save(new Todo("text4"));
     }
 
     @Test
